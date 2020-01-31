@@ -2,3 +2,7 @@ Customer 360
 collateral 360
 Loan 360
 Dashboard
+
+
+informations
+new added
